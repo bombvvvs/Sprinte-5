@@ -1,1 +1,1 @@
-# Sprinte-5
+# Sprint-5
